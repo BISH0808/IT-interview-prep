@@ -1,4 +1,4 @@
-The IT interview:
+The IT interview questions in this repo:
 1) Algorithms
 2) Docker
 3) Linux
