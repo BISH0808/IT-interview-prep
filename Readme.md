@@ -6,4 +6,4 @@ The IT interview questions in this repo:
 5) SOLID
 
 These books are recommended for preparation:
-1) Designing Data-Intensive Applications by O’Reilly 
+1) Designing Data-Intensive Applications by Martin Kleppmann
