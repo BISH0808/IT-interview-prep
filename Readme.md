@@ -4,7 +4,7 @@ The IT interview questions in this repo:
 3) Linux
 4) Kubernetes
 5) SOLID
-6) MongoDB
+6) Databases
 
 These books are recommended for preparation:
 1) Designing Data-Intensive Applications by Martin Kleppmann
