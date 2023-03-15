@@ -4,8 +4,8 @@
 |  2           |       Docker      |                     |        | 
 |  3           |       Linux      |                     |        | 
 |  4           |       Kubernetes     |                     |        | 
-|  5           |       SOLID     |                     |        | 
-|  6           |       Databases    |                     |        | 
+|  5           |       SOLID     |                     |     English    |   [My Notebook](https://colab.research.google.com/github/BISH0808/IT-interview-prep/blob/main/SOLID.ipynb)
+|  6           |       Databases    |                     |     English    |  [My Notebook](https://colab.research.google.com/github/BISH0808/IT-interview-prep/blob/main/Databases.ipynb)
 
 These books are recommended for preparation:
 
