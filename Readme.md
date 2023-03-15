@@ -1,9 +1,9 @@
 | Number        | Name                             | Description                                                   |  Lanuage         |  Online Notebook | 
 | ------------- |:--------------------------------:|:-------------------------------------------------------------:|:----------------:|:----------------:|
 |  1            |       Algorithms              |                        | English          | [My Repo](https://github.com/BISH0808/Algorithms)
-|  2           |       Docker      |                     |        | 
+|  2           |       Docker      |                     |        | My Notebook
 |  3           |       Linux      |                     |        |  [My Notebook](https://colab.research.google.com/drive/1ZAvKBnS3Vh_wOZgMd4VQkXWLCrzvr-Hd#scrollTo=RKxWT6CYUdrF)
-|  4           |       Kubernetes     |                     |        | 
+|  4           |       Kubernetes     |                     |        | My Notebook
 |  5           |       SOLID     |                     |     English    |   [My Notebook](https://colab.research.google.com/github/BISH0808/IT-interview-prep/blob/main/SOLID.ipynb)
 |  6           |       Databases    |                     |     English    |  [My Notebook](https://colab.research.google.com/github/BISH0808/IT-interview-prep/blob/main/Databases.ipynb)
 
