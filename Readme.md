@@ -5,7 +5,7 @@
 |  3           |       Linux      |                     |        |  [My Folder](https://github.com/BISH0808/IT-interview-prep/tree/main/Linux)
 |  4           |       Kubernetes     |                     |        | My Notebook
 |  5           |       SOLID     |                     |     English    |   [My Notebook](https://colab.research.google.com/github/BISH0808/IT-interview-prep/blob/main/SOLID.ipynb)
-|  6           |       Databases    |                     |     English    |  [My Notebook](https://colab.research.google.com/github/BISH0808/IT-interview-prep/blob/main/Databases.ipynb)
+|  6           |       Databases    |                     |     English    |  [My Folder]([https://colab.research.google.com/github/BISH0808/IT-interview-prep/blob/main/Databases.ipynb](https://github.com/BISH0808/IT-interview-prep/tree/main/Databases))
 
 These books are recommended for preparation:
 
