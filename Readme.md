@@ -13,4 +13,8 @@ These books are recommended for preparation:
 | ------------- |:--------------------------------:|:-------------------------------------------------------------:|
 |  1            |       Designing Data-Intensive Applications           |       Designing Data-Intensive Applications by Martin Kleppmann                   |
 
+These video are recommended for preparation:
 
+| Number        | Name                             | Description                                                   |  
+| ------------- |:--------------------------------:|:-------------------------------------------------------------:|
+|  1            |       Programmer Base (База программиста)         |       [Video by Vlad Ten](https://www.youtube.com/watch?v=X-tlxRa-MP4)                 |
